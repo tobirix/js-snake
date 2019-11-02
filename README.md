@@ -1,2 +1,2 @@
 # js-snake
-Entstanden 2018
+originally created: 22 Mar 2018
